@@ -87,4 +87,5 @@ int main(
 	SetDemo();
 	//VectorDemo();
 	int r;
+	int newfile;
 }
